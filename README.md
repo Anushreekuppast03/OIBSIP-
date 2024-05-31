@@ -1,4 +1,4 @@
-# OIBGRIP-TASK2
+# Task1_calculator
 I developed this calculator using HTML, CSS 
 # Task2_Tribute_Page
 I developed this Tribute_Page using HTML, CSS 
